@@ -3,7 +3,7 @@
 Eu sou <strong>Wyrms Cordeiro</strong>, <strong>formado em Biomedicina e, atualmente, em transição de carreira para a área de tecnologia</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Java</strong> 
-- 💬 Pergunte-me sobre: <strong>Jogos, Tecnologia</strong>
+- 💬 Pergunte-me sobre: <strong>Jogos, Tecnologia, Música e Idiomas</strong>
 - 📣 Nós podemos falar em: <strong>Português</strong>
 
 <div align="center">
